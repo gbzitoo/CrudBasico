@@ -1,0 +1,15 @@
+C:\WorkSpace\CrudBasico\CSharpBasico\CSharpBasico\bin\Debug\net6.0\CSharpBasico.exe
+C:\WorkSpace\CrudBasico\CSharpBasico\CSharpBasico\bin\Debug\net6.0\CSharpBasico.deps.json
+C:\WorkSpace\CrudBasico\CSharpBasico\CSharpBasico\bin\Debug\net6.0\CSharpBasico.runtimeconfig.json
+C:\WorkSpace\CrudBasico\CSharpBasico\CSharpBasico\bin\Debug\net6.0\CSharpBasico.dll
+C:\WorkSpace\CrudBasico\CSharpBasico\CSharpBasico\bin\Debug\net6.0\CSharpBasico.pdb
+C:\WorkSpace\CrudBasico\CSharpBasico\CSharpBasico\obj\Debug\net6.0\CSharpBasico.csproj.AssemblyReference.cache
+C:\WorkSpace\CrudBasico\CSharpBasico\CSharpBasico\obj\Debug\net6.0\CSharpBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\CrudBasico\CSharpBasico\CSharpBasico\obj\Debug\net6.0\CSharpBasico.AssemblyInfoInputs.cache
+C:\WorkSpace\CrudBasico\CSharpBasico\CSharpBasico\obj\Debug\net6.0\CSharpBasico.AssemblyInfo.cs
+C:\WorkSpace\CrudBasico\CSharpBasico\CSharpBasico\obj\Debug\net6.0\CSharpBasico.csproj.CoreCompileInputs.cache
+C:\WorkSpace\CrudBasico\CSharpBasico\CSharpBasico\obj\Debug\net6.0\CSharpBasico.dll
+C:\WorkSpace\CrudBasico\CSharpBasico\CSharpBasico\obj\Debug\net6.0\refint\CSharpBasico.dll
+C:\WorkSpace\CrudBasico\CSharpBasico\CSharpBasico\obj\Debug\net6.0\CSharpBasico.pdb
+C:\WorkSpace\CrudBasico\CSharpBasico\CSharpBasico\obj\Debug\net6.0\CSharpBasico.genruntimeconfig.cache
+C:\WorkSpace\CrudBasico\CSharpBasico\CSharpBasico\obj\Debug\net6.0\ref\CSharpBasico.dll
