@@ -1,0 +1,17 @@
+C:\WorkSpace\CrudBasico\CrudBasicoWindows\CrudBasicoWindowns\bin\Debug\net6.0-windows\CrudBasicoWindowns.exe
+C:\WorkSpace\CrudBasico\CrudBasicoWindows\CrudBasicoWindowns\bin\Debug\net6.0-windows\CrudBasicoWindowns.deps.json
+C:\WorkSpace\CrudBasico\CrudBasicoWindows\CrudBasicoWindowns\bin\Debug\net6.0-windows\CrudBasicoWindowns.runtimeconfig.json
+C:\WorkSpace\CrudBasico\CrudBasicoWindows\CrudBasicoWindowns\bin\Debug\net6.0-windows\CrudBasicoWindowns.dll
+C:\WorkSpace\CrudBasico\CrudBasicoWindows\CrudBasicoWindowns\bin\Debug\net6.0-windows\CrudBasicoWindowns.pdb
+C:\WorkSpace\CrudBasico\CrudBasicoWindows\CrudBasicoWindowns\obj\Debug\net6.0-windows\CrudBasicoWindowns.csproj.AssemblyReference.cache
+C:\WorkSpace\CrudBasico\CrudBasicoWindows\CrudBasicoWindowns\obj\Debug\net6.0-windows\CrudBasicoWindowns.Form1.resources
+C:\WorkSpace\CrudBasico\CrudBasicoWindows\CrudBasicoWindowns\obj\Debug\net6.0-windows\CrudBasicoWindowns.csproj.GenerateResource.cache
+C:\WorkSpace\CrudBasico\CrudBasicoWindows\CrudBasicoWindowns\obj\Debug\net6.0-windows\CrudBasicoWindowns.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\CrudBasico\CrudBasicoWindows\CrudBasicoWindowns\obj\Debug\net6.0-windows\CrudBasicoWindowns.AssemblyInfoInputs.cache
+C:\WorkSpace\CrudBasico\CrudBasicoWindows\CrudBasicoWindowns\obj\Debug\net6.0-windows\CrudBasicoWindowns.AssemblyInfo.cs
+C:\WorkSpace\CrudBasico\CrudBasicoWindows\CrudBasicoWindowns\obj\Debug\net6.0-windows\CrudBasicoWindowns.csproj.CoreCompileInputs.cache
+C:\WorkSpace\CrudBasico\CrudBasicoWindows\CrudBasicoWindowns\obj\Debug\net6.0-windows\CrudBasicoWindowns.dll
+C:\WorkSpace\CrudBasico\CrudBasicoWindows\CrudBasicoWindowns\obj\Debug\net6.0-windows\refint\CrudBasicoWindowns.dll
+C:\WorkSpace\CrudBasico\CrudBasicoWindows\CrudBasicoWindowns\obj\Debug\net6.0-windows\CrudBasicoWindowns.pdb
+C:\WorkSpace\CrudBasico\CrudBasicoWindows\CrudBasicoWindowns\obj\Debug\net6.0-windows\CrudBasicoWindowns.genruntimeconfig.cache
+C:\WorkSpace\CrudBasico\CrudBasicoWindows\CrudBasicoWindowns\obj\Debug\net6.0-windows\ref\CrudBasicoWindowns.dll
